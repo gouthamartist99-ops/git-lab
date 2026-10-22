@@ -1,2 +1,6 @@
 my first git lab
+<<<<<<< HEAD
 Yeah this is changed
+=======
+Work in Progress
+>>>>>>> fbb4976 (Updated file)
